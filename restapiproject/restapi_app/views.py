@@ -32,4 +32,39 @@ class TestView(APIView):
         except Exception as exe:
             print(exe)
             return Response({"messages":"Internal server error"}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
-    
+        
+
+
+# update(put)
+class TestViewUpdate(APIView):
+    def put(self, request, id ):
+        try:
+            instance = TestModel.objects.get(id=id)
+            serializer = TestModelSerializers(instance, data=request.data)
+            if serializer.is_valid():
+                serializer.save()
+                return Response({"data":"data successfully updated.."}, status=status.HTTP_201_CREATED)
+            
+            return Response({"data":serializer.erros}, status=status.HTTP_400_BAD_REQUEST)
+        
+        except Exception as exe:
+            print(exe)
+            return Response({"messages":"Internal server error"}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+
+
+
+class TestViewDelete(APIView):
+    def delete(self, request, id):
+        try:
+            instance = TestModel.objects.get(id=id)
+            instance.delete()
+
+            return Response({"messages":"data successfully deleted.."}, status=status.HTTP_204_NO_CONTENT)
+        
+        except TestModel.DoesNotExist:
+            return Response({"message":"Data not found.."}, status=status.HTTP_404_NOT_FOUND)
+        
+        except Exception as exe:
+            print(exe)
+            return Response({"message":"Internal server error"}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+        
