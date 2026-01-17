@@ -74,3 +74,184 @@
 2026-01-17 07:43:10,072 INFO Watching for file changes with StatReloader 681 
 2026-01-17 07:44:35,522 INFO "GET /test/ HTTP/1.1" 200 30 249 
 2026-01-17 07:45:01,972 INFO "POST /test/ HTTP/1.1" 200 31 249 
+2026-01-17 07:51:19,133 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\models.py changed, reloading. 265 
+2026-01-17 07:51:20,722 INFO Watching for file changes with StatReloader 681 
+2026-01-17 07:51:28,655 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\models.py changed, reloading. 265 
+2026-01-17 07:51:29,947 INFO Watching for file changes with StatReloader 681 
+2026-01-17 07:51:31,423 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\models.py changed, reloading. 265 
+2026-01-17 07:51:32,586 INFO Watching for file changes with StatReloader 681 
+2026-01-17 07:51:39,335 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\models.py changed, reloading. 265 
+2026-01-17 07:51:40,578 INFO Watching for file changes with StatReloader 681 
+2026-01-17 07:51:42,121 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\models.py changed, reloading. 265 
+2026-01-17 07:51:43,342 INFO Watching for file changes with StatReloader 681 
+2026-01-17 07:51:56,678 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\models.py changed, reloading. 265 
+2026-01-17 07:51:58,044 INFO Watching for file changes with StatReloader 681 
+2026-01-17 07:52:00,148 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\models.py changed, reloading. 265 
+2026-01-17 07:52:01,409 INFO Watching for file changes with StatReloader 681 
+2026-01-17 07:52:10,266 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\models.py changed, reloading. 265 
+2026-01-17 07:52:11,515 INFO Watching for file changes with StatReloader 681 
+2026-01-17 07:52:15,902 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\models.py changed, reloading. 265 
+2026-01-17 07:52:17,190 INFO Watching for file changes with StatReloader 681 
+2026-01-17 07:52:42,910 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\models.py changed, reloading. 265 
+2026-01-17 07:52:44,111 INFO Watching for file changes with StatReloader 681 
+2026-01-17 07:52:45,629 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\models.py changed, reloading. 265 
+2026-01-17 07:52:46,858 INFO Watching for file changes with StatReloader 681 
+2026-01-17 07:53:16,007 INFO Watching for file changes with StatReloader 681 
+2026-01-17 07:54:25,425 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\admin.py changed, reloading. 265 
+2026-01-17 07:54:26,602 INFO Watching for file changes with StatReloader 681 
+2026-01-17 07:54:29,318 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\admin.py changed, reloading. 265 
+2026-01-17 07:54:30,592 INFO Watching for file changes with StatReloader 681 
+2026-01-17 07:54:32,658 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\admin.py changed, reloading. 265 
+2026-01-17 07:54:33,903 INFO Watching for file changes with StatReloader 681 
+2026-01-17 07:54:57,326 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\admin.py changed, reloading. 265 
+2026-01-17 07:54:58,601 INFO Watching for file changes with StatReloader 681 
+2026-01-17 07:55:06,368 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\admin.py changed, reloading. 265 
+2026-01-17 07:55:07,643 INFO Watching for file changes with StatReloader 681 
+2026-01-17 07:55:14,279 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\admin.py changed, reloading. 265 
+2026-01-17 07:55:15,548 INFO Watching for file changes with StatReloader 681 
+2026-01-17 07:55:21,403 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\admin.py changed, reloading. 265 
+2026-01-17 07:55:22,576 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:02:21,051 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:02:22,531 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:02:34,445 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:02:35,746 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:02:48,967 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:02:50,150 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:02:59,891 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:03:01,131 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:03:04,211 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:03:05,353 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:03:19,714 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:03:21,056 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:03:22,974 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:03:24,180 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:03:27,235 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:03:28,314 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:03:33,626 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:03:34,992 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:03:38,114 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:03:39,230 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:03:43,401 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:03:44,648 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:03:46,714 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:03:47,968 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:04:05,669 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:04:06,971 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:04:11,174 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:04:12,514 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:04:19,190 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:04:20,493 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:04:29,358 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:04:30,514 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:04:43,783 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:04:44,989 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:04:49,729 INFO "GET /test/ HTTP/1.1" 200 16 249 
+2026-01-17 08:04:52,729 INFO "GET /test/ HTTP/1.1" 200 16 249 
+2026-01-17 08:05:40,107 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:05:41,261 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:05:59,039 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:06:00,232 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:06:10,105 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:06:11,446 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:06:13,502 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:06:14,712 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:06:16,807 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:06:18,209 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:06:27,652 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:06:29,013 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:06:31,027 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:06:32,284 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:06:39,961 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:06:41,256 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:06:44,437 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:06:45,659 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:07:06,707 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:07:07,967 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:07:09,588 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:07:10,864 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:07:12,845 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:07:14,051 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:07:17,878 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:07:19,083 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:07:25,537 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:07:26,694 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:07:28,668 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:07:29,923 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:07:49,667 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:07:50,924 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:07:56,297 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:07:57,547 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:08:00,927 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:08:02,276 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:08:07,722 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:08:08,844 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:08:40,072 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:08:41,288 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:08:47,905 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:08:49,248 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:08:52,527 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:08:53,815 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:09:01,263 INFO "GET /test/ HTTP/1.1" 200 16 249 
+2026-01-17 08:09:40,681 ERROR Internal Server Error: /test/ 249 
+2026-01-17 08:09:40,681 ERROR "POST /test/ HTTP/1.1" 500 37 249 
+2026-01-17 08:10:13,002 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\serializers.py changed, reloading. 265 
+2026-01-17 08:10:14,201 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:10:26,305 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\serializers.py changed, reloading. 265 
+2026-01-17 08:10:27,482 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:10:33,620 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\serializers.py changed, reloading. 265 
+2026-01-17 08:10:34,789 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:10:40,016 INFO "POST /test/ HTTP/1.1" 200 41 249 
+2026-01-17 08:12:02,660 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\serializers.py changed, reloading. 265 
+2026-01-17 08:12:04,029 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:12:06,459 INFO "GET /test/ HTTP/1.1" 200 63 249 
+2026-01-17 08:12:27,708 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:12:28,964 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:12:30,099 INFO "GET /test/ HTTP/1.1" 200 59 249 
+2026-01-17 08:12:38,346 INFO "POST /test/ HTTP/1.1" 200 41 249 
+2026-01-17 08:12:42,356 INFO "GET /test/ HTTP/1.1" 200 139 249 
+2026-01-17 08:13:13,104 INFO "POST /test/ HTTP/1.1" 200 41 249 
+2026-01-17 08:13:17,259 INFO "GET /test/ HTTP/1.1" 200 213 249 
+2026-01-17 08:13:50,116 INFO "POST /test/ HTTP/1.1" 200 41 249 
+2026-01-17 08:13:54,771 INFO "GET /test/ HTTP/1.1" 200 283 249 
+2026-01-17 08:17:58,873 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:18:00,289 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:18:17,841 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:18:19,120 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:18:21,302 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:18:22,568 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:18:46,859 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:18:48,190 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:18:53,504 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:18:54,751 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:19:22,375 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:19:23,626 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:19:31,265 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:19:32,459 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:19:35,727 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:19:37,063 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:19:41,325 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:19:42,566 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:19:46,909 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:19:48,158 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:19:54,717 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:19:56,049 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:19:58,863 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:20:00,181 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:20:11,167 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:20:12,476 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:20:25,200 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:20:26,396 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:20:30,697 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:20:31,857 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:20:57,372 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:20:58,497 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:21:01,737 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:21:03,039 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:21:05,079 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:21:06,306 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:21:08,315 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:21:09,526 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:21:11,656 INFO C:\Users\00\Desktop\RestAPI\restapiproject\restapi_app\views.py changed, reloading. 265 
+2026-01-17 08:21:12,808 INFO Watching for file changes with StatReloader 681 
+2026-01-17 08:25:43,403 INFO "POST /test/ HTTP/1.1" 201 40 249 
+2026-01-17 08:25:48,047 INFO "GET /test/ HTTP/1.1" 200 325 249 
