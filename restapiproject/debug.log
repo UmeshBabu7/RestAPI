@@ -801,3 +801,64 @@
 2026-01-17 14:56:38,334 INFO Watching for file changes with StatReloader 681 
 2026-01-18 07:50:27,515 INFO Watching for file changes with StatReloader 681 
 2026-01-18 07:51:31,865 INFO "GET /test/ HTTP/1.1" 200 300 249 
+2026-01-18 08:06:21,152 INFO C:\Users\00\Desktop\RestAPI\restapiproject\user\serializers.py changed, reloading. 265 
+2026-01-18 08:06:22,854 INFO Watching for file changes with StatReloader 681 
+2026-01-18 08:06:25,123 INFO C:\Users\00\Desktop\RestAPI\restapiproject\user\serializers.py changed, reloading. 265 
+2026-01-18 08:06:26,638 INFO Watching for file changes with StatReloader 681 
+2026-01-18 08:06:34,603 INFO C:\Users\00\Desktop\RestAPI\restapiproject\user\serializers.py changed, reloading. 265 
+2026-01-18 08:06:36,069 INFO Watching for file changes with StatReloader 681 
+2026-01-18 08:06:41,226 INFO C:\Users\00\Desktop\RestAPI\restapiproject\user\serializers.py changed, reloading. 265 
+2026-01-18 08:06:42,590 INFO Watching for file changes with StatReloader 681 
+2026-01-18 08:06:53,470 INFO C:\Users\00\Desktop\RestAPI\restapiproject\user\serializers.py changed, reloading. 265 
+2026-01-18 08:06:54,900 INFO Watching for file changes with StatReloader 681 
+2026-01-18 08:06:56,677 INFO C:\Users\00\Desktop\RestAPI\restapiproject\user\serializers.py changed, reloading. 265 
+2026-01-18 08:06:57,963 INFO Watching for file changes with StatReloader 681 
+2026-01-18 08:07:03,166 INFO C:\Users\00\Desktop\RestAPI\restapiproject\user\serializers.py changed, reloading. 265 
+2026-01-18 08:07:04,625 INFO Watching for file changes with StatReloader 681 
+2026-01-18 08:07:12,692 INFO C:\Users\00\Desktop\RestAPI\restapiproject\user\serializers.py changed, reloading. 265 
+2026-01-18 08:07:14,158 INFO Watching for file changes with StatReloader 681 
+2026-01-18 08:07:18,590 INFO C:\Users\00\Desktop\RestAPI\restapiproject\user\serializers.py changed, reloading. 265 
+2026-01-18 08:07:19,911 INFO Watching for file changes with StatReloader 681 
+2026-01-18 08:07:31,136 INFO C:\Users\00\Desktop\RestAPI\restapiproject\user\serializers.py changed, reloading. 265 
+2026-01-18 08:07:32,585 INFO Watching for file changes with StatReloader 681 
+2026-01-18 08:07:34,426 INFO C:\Users\00\Desktop\RestAPI\restapiproject\user\serializers.py changed, reloading. 265 
+2026-01-18 08:07:35,759 INFO Watching for file changes with StatReloader 681 
+2026-01-18 08:07:37,519 INFO C:\Users\00\Desktop\RestAPI\restapiproject\user\serializers.py changed, reloading. 265 
+2026-01-18 08:07:38,875 INFO Watching for file changes with StatReloader 681 
+2026-01-18 08:07:40,576 INFO C:\Users\00\Desktop\RestAPI\restapiproject\user\serializers.py changed, reloading. 265 
+2026-01-18 08:07:41,929 INFO Watching for file changes with StatReloader 681 
+2026-01-18 08:07:46,289 INFO C:\Users\00\Desktop\RestAPI\restapiproject\user\serializers.py changed, reloading. 265 
+2026-01-18 08:07:47,648 INFO Watching for file changes with StatReloader 681 
+2026-01-18 08:07:50,571 INFO C:\Users\00\Desktop\RestAPI\restapiproject\user\serializers.py changed, reloading. 265 
+2026-01-18 08:07:52,084 INFO Watching for file changes with StatReloader 681 
+2026-01-18 08:07:56,107 INFO C:\Users\00\Desktop\RestAPI\restapiproject\user\serializers.py changed, reloading. 265 
+2026-01-18 08:07:57,459 INFO Watching for file changes with StatReloader 681 
+2026-01-18 08:07:59,259 INFO C:\Users\00\Desktop\RestAPI\restapiproject\user\serializers.py changed, reloading. 265 
+2026-01-18 08:08:00,575 INFO Watching for file changes with StatReloader 681 
+2026-01-18 08:08:10,174 INFO C:\Users\00\Desktop\RestAPI\restapiproject\user\serializers.py changed, reloading. 265 
+2026-01-18 08:08:11,499 INFO Watching for file changes with StatReloader 681 
+2026-01-18 08:08:16,116 INFO C:\Users\00\Desktop\RestAPI\restapiproject\user\serializers.py changed, reloading. 265 
+2026-01-18 08:08:17,586 INFO Watching for file changes with StatReloader 681 
+2026-01-18 08:08:19,781 INFO C:\Users\00\Desktop\RestAPI\restapiproject\user\serializers.py changed, reloading. 265 
+2026-01-18 08:08:21,343 INFO Watching for file changes with StatReloader 681 
+2026-01-18 08:08:28,021 INFO C:\Users\00\Desktop\RestAPI\restapiproject\user\serializers.py changed, reloading. 265 
+2026-01-18 08:08:29,463 INFO Watching for file changes with StatReloader 681 
+2026-01-18 08:08:33,958 INFO C:\Users\00\Desktop\RestAPI\restapiproject\user\serializers.py changed, reloading. 265 
+2026-01-18 08:08:35,202 INFO Watching for file changes with StatReloader 681 
+2026-01-18 08:08:38,505 INFO C:\Users\00\Desktop\RestAPI\restapiproject\user\serializers.py changed, reloading. 265 
+2026-01-18 08:08:39,722 INFO Watching for file changes with StatReloader 681 
+2026-01-18 08:08:47,789 INFO Watching for file changes with StatReloader 681 
+2026-01-18 08:09:13,280 WARNING Bad Request: /user/register/ 249 
+2026-01-18 08:09:13,280 WARNING "POST /user/register/ HTTP/1.1" 400 54 249 
+2026-01-18 08:09:38,150 WARNING Bad Request: /user/register/ 249 
+2026-01-18 08:09:38,150 WARNING "POST /user/register/ HTTP/1.1" 400 62 249 
+2026-01-18 08:09:55,154 INFO C:\Users\00\Desktop\RestAPI\restapiproject\user\serializers.py changed, reloading. 265 
+2026-01-18 08:09:56,600 INFO Watching for file changes with StatReloader 681 
+2026-01-18 08:09:58,761 INFO C:\Users\00\Desktop\RestAPI\restapiproject\user\serializers.py changed, reloading. 265 
+2026-01-18 08:10:00,056 INFO Watching for file changes with StatReloader 681 
+2026-01-18 08:10:03,300 INFO C:\Users\00\Desktop\RestAPI\restapiproject\user\serializers.py changed, reloading. 265 
+2026-01-18 08:10:04,570 INFO Watching for file changes with StatReloader 681 
+2026-01-18 08:10:07,942 INFO C:\Users\00\Desktop\RestAPI\restapiproject\user\serializers.py changed, reloading. 265 
+2026-01-18 08:10:09,160 INFO Watching for file changes with StatReloader 681 
+2026-01-18 08:10:12,347 INFO C:\Users\00\Desktop\RestAPI\restapiproject\user\serializers.py changed, reloading. 265 
+2026-01-18 08:10:13,727 INFO Watching for file changes with StatReloader 681 
