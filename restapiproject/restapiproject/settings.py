@@ -32,9 +32,7 @@ INSTALLED_APPS = [
     'rest_framework',
 ]
 
-EXTERNAL_APPS = [
-    'restapi_app',
-]
+EXTERNAL_APPS = ['restapi_app','user']
 
 INSTALLED_APPS.extend(EXTERNAL_APPS)
 
